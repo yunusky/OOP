@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Giris", "1-Giris\1-Giris.csproj", "{896407EC-8A48-4F95-9E06-3EBB63761870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896407EC-8A48-4F95-9E06-3EBB63761870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896407EC-8A48-4F95-9E06-3EBB63761870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896407EC-8A48-4F95-9E06-3EBB63761870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896407EC-8A48-4F95-9E06-3EBB63761870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0681A26-2C7A-4EDD-9709-B593AF604DDC}
+	EndGlobalSection
+EndGlobal
