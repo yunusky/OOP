@@ -29,7 +29,18 @@
 	public class Personel
 	{
 		string _TcNo;
-		public string Ad { get; set; }
+		string _Ad;
+		public string Ad
+		{
+			get
+			{
+				return _Ad;
+			}
+			set
+			{
+				if (!string.IsNullOrEmpty(_Ad)) _Ad = value;
+			}
+		}
 		public string Soyad { get; set; }
 		public string TcNo
 		{

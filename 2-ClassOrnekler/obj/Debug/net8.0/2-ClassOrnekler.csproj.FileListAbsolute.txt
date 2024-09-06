@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\bin\Debug\net8.0\2-ClassOrnekler.exe
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\bin\Debug\net8.0\2-ClassOrnekler.deps.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\bin\Debug\net8.0\2-ClassOrnekler.runtimeconfig.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\bin\Debug\net8.0\2-ClassOrnekler.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\bin\Debug\net8.0\2-ClassOrnekler.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.AssemblyInfo.cs
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.sourcelink.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\refint\2-ClassOrnekler.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\2-ClassOrnekler.genruntimeconfig.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\2-ClassOrnekler\obj\Debug\net8.0\ref\2-ClassOrnekler.dll
