@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace _3_ClassLib.Personeller
 {
-	public class Personel:Kisi
+	public interface ISatisElemani
 	{
-		public double Maas { get; set; } = 17002;
-        public string Departman { get; set; }
+		public void MusterileriAra();
 
-		public void IseGecKalma()
-		{
+		public void MusterileriZiyaretEt();
 
-		}
-    }
+		public void SatisYap();
+
+	}
 }

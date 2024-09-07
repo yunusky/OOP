@@ -8,9 +8,22 @@ namespace _3_ClassLib.Personeller
 {
 	public class SatisElemani:Personel
 	{
-        public SatisElemani()
+        //protected
+        //sadece kalitim verdigi yerlerde ulaşılabilir.
+        //Instance alininca erisilemez
+		internal double Prim { get; set; }
+
+		public SatisElemani()
         {
-            Maas = base.Maas * 1.5;
+            Maas = base.Maas * 1.5 + Prim;
         }
+
+        public void MusterileriAra()
+        {
+
+        }
+
+        public void MusterileriZiyaretEt() { }
+        public void SatisYap() { }
     }
 }

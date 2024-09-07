@@ -1,4 +1,5 @@
 ﻿using _3_ClassLib.Bilgisayarlar;
+using _3_ClassLib.Personeller;
 
 namespace _4_LibraryKullanimi
 {
@@ -32,6 +33,10 @@ namespace _4_LibraryKullanimi
             Console.WriteLine("Oyuncu Bilgisayarı Fiyati : " + oyuncu.FiyatHesapla());
             Console.WriteLine("Bilgisayar Fiyati : " + bilgisayar.FiyatHesapla());
 
+			SatisMuduru satisMuduru = new SatisMuduru();
+			SatisElemani satisElemani = new SatisElemani();
+			
+			
 			Console.WriteLine("Hello, World!");
 		}
 	}

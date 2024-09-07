@@ -6,22 +6,26 @@ using System.Threading.Tasks;
 
 namespace _3_ClassLib.Personeller
 {
-	public class Sekreter:Personel
+	public class ITYazilim:Personel
 	{
-        public Sekreter()
+        public ITYazilim()
         {
-            Maas = base.Maas + 7000 ;
+            Maas = base.Maas * 2.5;
         }
 
-        public void TelefonlaraBak()
+        public void KodYaz()
+        {
+
+        }
+        public void DebugYap()
         {
 
         }
 
-        public void RandevulariAyarla()
+        public void TestEt()
         {
 
-        } 
+        }
 
 
     }
