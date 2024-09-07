@@ -15,5 +15,10 @@ namespace _3_ClassLib.Bilgisayarlar
 		public string Marka { get; set; }
 		public string Model { get; set; }
 		public double Fiyat { get; set; }
-	}
+
+        protected BaseItem()
+        {
+			Fiyat = 1;
+        }
+    }
 }

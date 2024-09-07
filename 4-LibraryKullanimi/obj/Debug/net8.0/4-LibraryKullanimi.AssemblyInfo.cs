@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4-LibraryKullanimi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b55e6ee9f2606acdd238eccc279d4bdba3d04a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d40a0e337d8b1c7ec6ef3745ceecadcaaf268e")]
 [assembly: System.Reflection.AssemblyProductAttribute("4-LibraryKullanimi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4-LibraryKullanimi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

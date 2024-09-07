@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_ClassLib.Bilgisayarlar
+namespace _3_ClassLib.Personeller
 {
-	public class Anakart :BaseItem
+	public class SatisElemani:Personel
 	{
-        public Anakart()
+        public SatisElemani()
         {
-            Marka = "Asus";
+            Maas = base.Maas * 1.5;
         }
     }
 }

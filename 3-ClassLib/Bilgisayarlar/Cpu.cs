@@ -10,5 +10,36 @@ namespace _3_ClassLib.Bilgisayarlar
 	{
         public int CoreSayisi { get; set; }
         public int Hiz { get; set; }
-    }
+
+		public Cpu()
+		{
+			Marka = "Amd";
+			CoreSayisi = 4;
+			Hiz = 1000;
+			Fiyat = 1;
+		}
+
+		public Cpu(string marka)
+        {
+            Marka = marka;
+        }
+		public Cpu(string marka, string model)
+		{
+            Marka=marka;
+            Model = model;
+		}
+		public Cpu(string marka, string model, int coreSayisi)
+		{
+			Marka = marka;
+			Model = model;
+            CoreSayisi = coreSayisi;
+		}
+		public Cpu(string marka, string model, int coreSayisi,int hiz)
+		{
+			Marka = marka;
+			Model = model;
+			CoreSayisi = coreSayisi;
+			Hiz = hiz;
+		}
+	}
 }
