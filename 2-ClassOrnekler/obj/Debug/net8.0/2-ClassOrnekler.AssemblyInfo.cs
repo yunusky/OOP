@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-ClassOrnekler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738fd6da3edeb0cbbc36dd5e0aa15a5ad2f4dc23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b55e6ee9f2606acdd238eccc279d4bdba3d04a")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-ClassOrnekler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-ClassOrnekler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
