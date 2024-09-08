@@ -7,11 +7,20 @@ using System.Threading.Tasks;
 
 namespace _4_LibraryKullanimi
 {
-    public class temp:SatisElemani
-    {
-        public void test()
-        {
+    public class temp
+    {    
+        int sayi;
+		internal List<SatisElemani> satiscilar = new List<SatisElemani>();
+		public void test()
+		{
+			//double prim = base.Prim;
+		}
 
-        }
-    }
+		//Metod burada private'tir
+		void test2() { }
+
+		//Sadece Kalitim verdigi yerlerden ulasilabilir
+		protected void test3() { }
+
+	}
 }

@@ -10,7 +10,7 @@
   <Class Name="_3_ClassLib.Personeller.SatisElemani">
     <Position X="10" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAIgAAAAAAAA=</HashCode>
       <FileName>Personeller\SatisElemani.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -24,7 +24,7 @@
   <Class Name="_3_ClassLib.Personeller.Kisi" Collapsed="true">
     <Position X="10" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAICAAAAACAAAAAAEAAAAAAAAAAAAAEACAAAACAAAAA=</HashCode>
+      <HashCode>AAICAAAAACAAAAAAEAAAAAAAAAAAAAEACAQAACAAAAA=</HashCode>
       <FileName>Personeller\Kisi.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -47,6 +47,13 @@
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAACABAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>Personeller\InsanKaynaklari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.SatisMuduru" Collapsed="true">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Personeller\SatisMuduru.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

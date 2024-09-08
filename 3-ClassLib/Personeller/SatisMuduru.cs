@@ -10,7 +10,7 @@ namespace _3_ClassLib.Personeller
 	{
 		// ODev : Prim property'si instance alindiginda gorunmeyecek.
 
-		public SatisMuduru()
+		public SatisMuduru(string ad, string soyad) : base(ad, soyad)
 		{
 			Maas = base.Maas + PrimHesapla();
 

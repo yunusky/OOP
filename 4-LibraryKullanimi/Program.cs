@@ -33,10 +33,11 @@ namespace _4_LibraryKullanimi
             Console.WriteLine("Oyuncu Bilgisayarı Fiyati : " + oyuncu.FiyatHesapla());
             Console.WriteLine("Bilgisayar Fiyati : " + bilgisayar.FiyatHesapla());
 
-			SatisMuduru satisMuduru = new SatisMuduru();
-			SatisElemani satisElemani = new SatisElemani();
-			
-			
+			SatisMuduru satisMuduru = new SatisMuduru("Ali","Yılmaz");
+			//SatisElemani satisElemani = new SatisElemani("");
+
+			//Kisi kisi = new Kisi();
+
 			Console.WriteLine("Hello, World!");
 		}
 	}

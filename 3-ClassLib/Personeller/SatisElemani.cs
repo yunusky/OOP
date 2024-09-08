@@ -13,8 +13,8 @@ namespace _3_ClassLib.Personeller
         //Instance alininca erisilemez
 		internal double Prim { get; set; }
 
-		public SatisElemani()
-        {
+		public SatisElemani(string ad, string soyad) : base(ad, soyad)
+		{
             Maas = base.Maas * 1.5 + Prim;
         }
 
