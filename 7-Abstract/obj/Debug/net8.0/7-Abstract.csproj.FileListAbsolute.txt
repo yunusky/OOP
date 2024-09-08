@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\bin\Debug\net8.0\7-Abstract.exe
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\bin\Debug\net8.0\7-Abstract.deps.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\bin\Debug\net8.0\7-Abstract.runtimeconfig.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\bin\Debug\net8.0\7-Abstract.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\bin\Debug\net8.0\7-Abstract.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.AssemblyInfo.cs
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.sourcelink.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\refint\7-Abstract.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\7-Abstract.genruntimeconfig.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\7-Abstract\obj\Debug\net8.0\ref\7-Abstract.dll
