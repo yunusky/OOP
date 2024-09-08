@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-Giris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b55e6ee9f2606acdd238eccc279d4bdba3d04a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad637939efb77bb423f88092a048d38bbcddc12")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-Giris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-Giris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

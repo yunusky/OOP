@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Giris", "1-Giris\1-Giris.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-ClassOrnekler", "2-ClassOrnekler\2-ClassOrnekler.csproj", "{D6656AAC-EF08-47E2-8989-16AFBFE5EC80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-ClassLib", "3-ClassLib\3-ClassLib.csproj", "{15DEC709-4B33-4837-A4FF-E6FA4030D6A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-ClassLib", "3-ClassLib\3-ClassLib.csproj", "{15DEC709-4B33-4837-A4FF-E6FA4030D6A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-LibraryKullanimi", "4-LibraryKullanimi\4-LibraryKullanimi.csproj", "{F406DEE6-A774-4CC4-B465-2FC0C1C555FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-LibraryKullanimi", "4-LibraryKullanimi\4-LibraryKullanimi.csproj", "{F406DEE6-A774-4CC4-B465-2FC0C1C555FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-ObjectKavrami", "5-ObjectKavrami\5-ObjectKavrami.csproj", "{DC942F4E-C9D0-4472-85B1-D515D14FC161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-SingletonPattern", "6-SingletonPattern\6-SingletonPattern.csproj", "{1062ADDE-3243-415D-B848-8E8682324AD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F406DEE6-A774-4CC4-B465-2FC0C1C555FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F406DEE6-A774-4CC4-B465-2FC0C1C555FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F406DEE6-A774-4CC4-B465-2FC0C1C555FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC942F4E-C9D0-4472-85B1-D515D14FC161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC942F4E-C9D0-4472-85B1-D515D14FC161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC942F4E-C9D0-4472-85B1-D515D14FC161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC942F4E-C9D0-4472-85B1-D515D14FC161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1062ADDE-3243-415D-B848-8E8682324AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1062ADDE-3243-415D-B848-8E8682324AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1062ADDE-3243-415D-B848-8E8682324AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1062ADDE-3243-415D-B848-8E8682324AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
