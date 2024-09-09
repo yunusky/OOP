@@ -1,0 +1,17 @@
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\bin\Debug\net8.0-windows\10-PolimorfizmWindow.exe
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\bin\Debug\net8.0-windows\10-PolimorfizmWindow.deps.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\bin\Debug\net8.0-windows\10-PolimorfizmWindow.runtimeconfig.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\bin\Debug\net8.0-windows\10-PolimorfizmWindow.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\bin\Debug\net8.0-windows\10-PolimorfizmWindow.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\_10_PolimorfizmWindow.Form1.resources
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.AssemblyInfo.cs
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.sourcelink.json
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\refint\10-PolimorfizmWindow.dll
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.pdb
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\10-PolimorfizmWindow.genruntimeconfig.cache
+C:\Users\yunus\source\repos\IstkaFullData\OOP\10-PolimorfizmWindow\obj\Debug\net8.0-windows\ref\10-PolimorfizmWindow.dll

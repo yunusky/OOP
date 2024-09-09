@@ -41,6 +41,7 @@
 			button1.TabIndex = 0;
 			button1.Text = "Nokia";
 			button1.UseVisualStyleBackColor = true;
+			button1.Click += button1_Click;
 			// 
 			// button2
 			// 
@@ -50,6 +51,7 @@
 			button2.TabIndex = 1;
 			button2.Text = "Iphone";
 			button2.UseVisualStyleBackColor = true;
+			button2.Click += button2_Click;
 			// 
 			// button3
 			// 
@@ -59,6 +61,7 @@
 			button3.TabIndex = 2;
 			button3.Text = "Samsung";
 			button3.UseVisualStyleBackColor = true;
+			button3.Click += button3_Click;
 			// 
 			// Form1
 			// 

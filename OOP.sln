@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Polimorfizm", "9-Polimorf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-PolimorfizmWindow", "10-PolimorfizmWindow\10-PolimorfizmWindow.csproj", "{77FCE892-5A83-4F02-842A-DBF1E9D10AD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Interface", "11-Interface\11-Interface.csproj", "{38E18DB2-0356-4603-9BA5-EF229B3BCC17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{77FCE892-5A83-4F02-842A-DBF1E9D10AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FCE892-5A83-4F02-842A-DBF1E9D10AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FCE892-5A83-4F02-842A-DBF1E9D10AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E18DB2-0356-4603-9BA5-EF229B3BCC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E18DB2-0356-4603-9BA5-EF229B3BCC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E18DB2-0356-4603-9BA5-EF229B3BCC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E18DB2-0356-4603-9BA5-EF229B3BCC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
